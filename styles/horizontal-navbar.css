@@ -1,17 +1,16 @@
-ol, ul {
+ol,ul {
 	list-style: none;
 }
 
 #main-bar {
 	margin:10px;
 	width:900px;
-	font-family:sans-serif;
+	font-family: sans-serif;
 }
-
 #main-bar li {
 	display:block;
 	width:120px;
-	float:center;
+	float:left;
 	margin-left:2px;
 	border:1px solid #000;
 }
