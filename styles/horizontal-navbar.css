@@ -24,3 +24,8 @@ ol,ul {
 	background-color:#fff;
 	color:#009;
 }
+
+#main-bar a:hover {
+	background-color:#009;
+	color:#fff;
+}
