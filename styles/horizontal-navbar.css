@@ -6,6 +6,8 @@ ol,ul {
 	margin:10px;
 	width:900px;
 	font-family: sans-serif;
+	float:none;
+	display:inline-block;
 }
 #main-bar li {
 	display:block;
