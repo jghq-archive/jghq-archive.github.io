@@ -12,7 +12,7 @@ ol,ul {
 #main-bar li {
 	display:block;
 	width:120px;
-	float:left;
+	float:center;
 	margin-left:2px;
 	border:1px solid #000;
 }
